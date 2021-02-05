@@ -3,7 +3,7 @@
     "tasks": [
       {
         "type": "shell",
-        "label": "Make the project",
+        "label": "make",
         "command": "make",
         "group": {
           "kind": "build",

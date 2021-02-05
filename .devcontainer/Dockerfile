@@ -21,4 +21,3 @@ ENV LANG=C.UTF-8
 RUN pip3 install baygon==0.2.1
 
 ADD .bashrc /root/.bashrc
-ADD .gitconfig /root/.gitconfig

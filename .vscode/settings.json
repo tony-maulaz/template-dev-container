@@ -6,5 +6,6 @@
         "editorRuler.foreground": "#2a3080"
     },
 
-    "doxdocgen.generic.includeTypeAtReturn": false
+    "doxdocgen.generic.includeTypeAtReturn": false,
+    "git.autofetch": false
 }
